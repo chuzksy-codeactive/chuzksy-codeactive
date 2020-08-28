@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Chika Onuchukwu aka Chuzksy. 👋🤓</h2>
+<p align="center">I'm a fullstack software engineer from Nigeria. I have three years of professional experience as a software engineer. I am passionate about building scalable products with modern technologies. I constantly strive to improve my techniques and toolset. I am currently passionate about Microservices, Domain Drive Designs, Clean Architectural Designs. When I am not developing or building things, you can find me learning on Udemy or Youtube, in the kitchen cooking while I listen to some good Naija Afrobeat musics</p>
 
 <!--
 **chuzksy-codeactive/chuzksy-codeactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
