@@ -2,7 +2,7 @@
 
 <h2 align='center'>Hello there! My name is Chika Onuchukwu aka Chuzksy. 👋🤓</h2>
 
-<p>I'm a fullstack software engineer from Nigeria. I have three years of professional experience as a software engineer. I am passionate about building scalable products with modern technologies. I constantly strive to improve my techniques and toolset. I am currently passionate about Microservices, Domain Drive Designs, Clean Architectural Designs. When I am not developing or building things, you can find me learning on Udemy or Youtube, in the kitchen cooking while I listen to some good Naija Afrobeat musics</p>
+<p>I'm a fullstack software engineer from Nigeria, major in backend, C#. I have five years of professional experience as a software engineer. I am passionate about building scalable products with modern technologies. I constantly strive to improve my techniques and toolset. When I am not developing or building things, you can find me learning or in the kitchen cooking while I listen to some good Naija Afrobeat songs</p>
 
 <h3>👯 Feel free to connect with me and let's collaborate </h3>
 
@@ -16,9 +16,8 @@
 <h3>I'm a Husband, Father, Developer, and Afrobeat Music Lover!</h3>
 
 - 🔭 I’m currently working on a improving my techniques and toolsets 🤣
-- 🌱 I’m currently studying a course on Udemy - Docker and Kubernetes.The complete guide by Stephen Grider
+- 🌱 I’m currently doing a Udacity Nano degree program on Azure Cloud Developer
 - 👯 I’m looking forward to collaborate with other .Net Core developers
-- 🥅 My half-year Goals: Become proficient in buiding Microservices application with Clean Architecture using .NET Core and Docker
 - ⚡ Fun fact: I love cooking as I listen to Naija afrobeat songs
 
 <h3>🛠️ Technologies and Tools</h3>
