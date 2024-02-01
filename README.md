@@ -2,7 +2,7 @@
 
 ## 👋 Hey there, I'm Chika!
 
-I'm a passionate Fullstack Software Engineer based in Nigeria, specializing in backend development with a focus on C# .NET Core. With over five years of professional experience, I've crafted robust solutions and contributed to various projects in the tech industry.
+Experienced backend developer with a proven track record in C# .NET Core, now expanding expertise into cybersecurity with a focus on penetration testing. Combining five years of software engineering proficiency with emerging skills in cybersecurity, I bring a unique blend of strengths to enhance system robustness and security.
 
 ### 🔧 My Tech Toolbox:
 - **Languages:** C#, Python, JavaScript
